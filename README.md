@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Archi
-- 👀 I’m interested in Web Developpment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++
 
 <!---
